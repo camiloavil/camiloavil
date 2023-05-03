@@ -1,4 +1,4 @@
-[![Header GitHub dfloresdev](https://camiloavil.com/img/banner.png)](https://camiloavil.com/)
+[![Header GitHub CamiloAvila](https://camiloavil.com/img/banner_electrico.png)](https://camiloavil.com/)
 <h1 align='center'>Hi  👋, I'm Camilo Avila </h1>
 
 <p align='center'>
